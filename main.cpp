@@ -13,6 +13,7 @@ int main() {
 	printf("hello word");
 	fun();
 	fun(3);
+	cout << "----------------" << endl;
 
 	return 0;
 }
